@@ -1,5 +1,5 @@
 # PERFORMANCE BASED QUALITY ASSURANCE PLAN (QAP) 
-# ARIES SUPPORT 
+# ARIES AUTOMATED RENEWALS
 ## INTRODUCTION
 This Quality Assurance Plan (QAP) has been developed to evaluate contractor actions while implementing the Scope of Work. It is designed to provide an effective method of monitoring contractor performance for each listed objective on the Performance Requirements Matrix. It also provides a systematic method to evaluate the services the contractor is required to furnish.
 
