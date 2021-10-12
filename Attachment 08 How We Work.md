@@ -48,7 +48,7 @@ We recognize that the DPA field staff will be critical to helping us develop sol
 * Non-researchers on the product team can and should be involved with research.
 * Only research facilitators/observers can be included in synthesis.
 * We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Research Participant Agreement](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/Design_Research_Participant_Agreement_ARIES2021.pdf). 
-* An overview of our approach to user research, driven by usability testing, is [here](UsabilityResearch.md)
+* An overview of our approach to user research, driven by usability testing, is [here](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/UsabilityResearch.md)
 
 ## Definition of Done
 
@@ -74,9 +74,9 @@ So that we can work more efficiently and be confident in the quality of the work
 Acceptance of work happens through the sprint as work is completed. The procedure is as follows:
 
 1. Development team completes work - See "for for delivering a user story to the product team" in [Definition of Done](#definition-of-done) above
-2. Development team creates pull request to staging - See [Pull Request Process](/azure-devops/GitBranchingStrategy.md)
+2. Development team creates pull request to staging - See [Pull Request Process](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/azure-devops/GitBranchingStrategy.md)
 3. The product team has verified the functionality against acceptance criteria in a deployed instance for a feature level pull request
-4. Code review takes place - See [Code Review Process](code-review.md)
+4. Code review takes place - See [Code Review Process](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/code-review.md)
 5. Pull request merged to staging DHSS code reviewer
 6. User testing happens - See "for product team to accept the user story and ship it" in _Definition of Done_ above, and [Testing Strategy](#testing-strategy)
 7. Product team creates pull request to master
@@ -85,7 +85,7 @@ Acceptance of work happens through the sprint as work is completed. The procedur
 ## Processes
 
 ### Tech Strategy
-We will move the programs currently in EIS off the mainframe within 5 years. This is a goal of the EIS modernization project. Strategies have been organized in themes. For more details about how we will do this work, see [EIS Replacement Project Technical Strategy](/tech-strategy.md).
+We will move the programs currently in EIS off the mainframe within 5 years. This is a goal of the EIS modernization project. Strategies have been organized in themes. For more details about how we will do this work, see [EIS Replacement Project Technical Strategy](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/tech-strategy.md).
 
 
 ### Testing Strategy
@@ -101,16 +101,16 @@ We practice testing at three levels: unit tests, integration tests, and feature 
 For more information about how to create and maintain unit, integration and feature tests, see [18F’s “Automated Testing Playbook”](https://automated-testing-playbook.18f.gov/).
 
 ### Pull Request Process
-Documented in our [Git Branching Strategy](/azure-devops/GitBranchingStrategy.md).
+Documented in our [Git Branching Strategy](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/azure-devops/GitBranchingStrategy.md).
 
 ### Code Review Process
 
-Documented in our [Code Review Process](code-review.md).
+Documented in our [Code Review Process](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/code-review.md).
 
 ### DevSecOps
 
-We rely on [DevSecOps](DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop Azure DevOps (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
-For details, see our [“Why DevSecOps?” document](DevSecOps.md), in Github.
+We rely on [DevSecOps](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop Azure DevOps (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
+For details, see our [“Why DevSecOps?” document](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/DevSecOps.md), in Github.
 
 ## Tools
 
