@@ -346,7 +346,7 @@ service-lines for specific DHSS IT initiatives and procurements.
 Engagement and Service Delivery Management Services is matrixed per the
 following organizational mapping:
 
-![](media/image3.png){width="6.5in" height="2.473611111111111in"}
+![](media/image3.png)
 
 ### Contract Negotiations IT Review and Approval
 
@@ -486,7 +486,7 @@ through processes and tools that implement version control, software
 license inventory and software procurement assurances. Asset Management
 Services is matrixed per the following organizational mapping:
 
-![](media/image4.png){width="6.5in" height="2.473611111111111in"}
+![](media/image4.png)
 
 ### Artifact Version Management
 
@@ -661,7 +661,7 @@ systems, and information system design, development and implementation.
 This is where we define our platform standards. This service line is
 matrixed per the following organizational mapping:
 
-![](media/image5.png){width="6.5in" height="2.473611111111111in"}
+![](media/image5.png)
 
 Just like any business, we have stretch our dollars. In Systems
 Integration and DDI (design, development and implementation) Services we
@@ -865,7 +865,7 @@ administration services that support solutions operating in production.
 System Operations and Administration Services is matrixed per the
 following organizational mapping:
 
-![](media/image6.png){width="6.5in" height="2.473611111111111in"}
+![](media/image6.png)
 
 ### Administration Services and Standards
 
@@ -998,7 +998,7 @@ information system.
 Information Security Compliance and Privacy Services is matrixed per the
 following organizational mapping:
 
-![](media/image7.png){width="6.5in" height="2.473611111111111in"}
+![](media/image7.png)
 
 In our agile acquisition practice, security is addressed via our
 DevSecOps practice. This DevSecOps practice is evolving and intends to
@@ -1090,7 +1090,7 @@ Reference H does not apply to these scenarios.
 > collaborate on presentations, clarifications and modifications
 > required by the Department Security Office.
 
-![](media/image8.png){width="6.5in" height="3.879861111111111in"}
+![](media/image8.png)
 
 #### Requirement -- Security Control Verification
 
@@ -1214,7 +1214,7 @@ desktops.
 Enterprise Desktop and Mobility Services is matrixed per the following
 organizational mapping:
 
-![](media/image9.png){width="6.5in" height="2.473611111111111in"}
+![](media/image9.png)
 
 ### Desktop Access and Configuration
 
@@ -1352,7 +1352,7 @@ Dynamics CRM.
 DHSS Hosting and Datacenter Services is matrixed per the following
 organizational mapping:
 
-![](media/image10.png){width="6.5in" height="3.808333333333333in"}
+![](media/image10.png)
 
 Within our agile acquisition practice, we expect to work with you to
 design and implement components that will run either within our
@@ -1456,7 +1456,7 @@ Service Desk Manager (SDM).
 DHSS Wide Area Network, Telecommunications, and Perimeter Services is
 matrixed per the following organizational mapping:
 
-![](media/image11.png){width="6.5in" height="2.473611111111111in"}
+![](media/image11.png)
 
 In our agile acquisition practice, we expect to work closely with you to
 ensure that all activities and work-products that require changes to the
