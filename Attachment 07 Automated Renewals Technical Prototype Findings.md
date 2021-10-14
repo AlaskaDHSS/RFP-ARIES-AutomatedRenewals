@@ -50,7 +50,7 @@ While investigating correspondence, it was found that even though we use older t
 
 Using WODM, we were able to create our own custom rules. Updating and editing rules, with the version of IBM ODM we are running, requires the installation of Eclipse along with the Rules Designer Extension added. To setup an environment for developing/testing we use the installer for "IBM WebSphere Operational Decision Management V8.0" (launchpad.exe) which is included in installer image downloaded from IBM. 
 
-The Rules code has not formally been migrated into TFS from the original SVN Repository that was handed to us from Deloitte. As a result there is currently no automated build pipeline in place for Rules. This work is not currently defined. The manual method to test Rules described in IBM documentation and Deloitte documentation, for the version we currently use (using Microsoft Excel), is not possible. We think running an older version of Office may solve this.
+The Rules code has not formally been migrated into TFS from the original SVN Repository that was given to us from the previous contractor. As a result there is currently no automated build pipeline in place for Rules. This work is not currently defined. The manual method to test Rules described in IBM documentation and the previous contractor's documentation, for the version we currently use (using Microsoft Excel), is not possible. We think running an older version of Office may solve this.
 
 Given our prototype did not include an actual update/addition to the existing ARIES ruleset/flows, there may be additional steps/concerns not documented here. There was a detailed overview of how Rules are developed and deployed, provided by the vendor during handover.
 
