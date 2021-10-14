@@ -56,4 +56,4 @@ Given our prototype did not include an actual update/addition to the existing AR
 
 ## Batch
 
-Batch prototyping was not performed; it has been previously updated by our M&O team and is well documented.
+Batch prototyping was not performed.
