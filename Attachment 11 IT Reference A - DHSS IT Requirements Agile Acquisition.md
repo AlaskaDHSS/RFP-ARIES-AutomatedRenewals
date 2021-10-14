@@ -195,7 +195,7 @@ identified in the table and diagram below.
 
   : Table 1 - Example technical services components
 
-![](media/image2.png){width="6.5in" height="4.336111111111111in"}
+![](media/image2.png)
 
 So, what does all this mean for you, the Offeror? Simple: DHSS has a
 monitored, managed, secure IT environment. We have about 115 IT staff
