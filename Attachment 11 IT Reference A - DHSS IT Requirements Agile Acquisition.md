@@ -48,7 +48,7 @@ TABLE OF CONTENTS
 
 # Purpose of IT Requirements for Modular Acquisition
 
-*We\...*
+*We...*
 
 Are the State of Alaska Department of Health and Social Services (DHSS).
 We provide services to promote and protect the health and well-being of
