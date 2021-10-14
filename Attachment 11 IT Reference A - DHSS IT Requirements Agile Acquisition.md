@@ -267,7 +267,7 @@ similarly to the IT Requirements document.
 
 ## Operational Delivery Models
 
-In agile acquisition, DHSS owns the product and we expect to host
+In our agile acquisition model, DHSS owns the product and we expect to host
 product components in either DHSS datacenters or a DHSS managed cloud
 hosted location. This means the product fits in our IT Environment. As
 the Offeror, we expect you to deliver in a Scrum-based process that
