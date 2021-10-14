@@ -58,7 +58,7 @@ TABLE OF CONTENTS
 Services and Standards
 27](#dhss-wide-area-network-telecommunications-and-perimeter-security-services-and-standards)
 
-[3.11 Accessibility 28](#accessibility)
+[3.11 Accessibility](#accessibility)
 
 [3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT
 Governance
