@@ -1521,14 +1521,11 @@ use/support changes within DHSS. The full implementation of the
 Department IT Governance Standards establishes the following guiding
 principles and strategies:
 
--   Maximize use of Department HIT expenditures through reuse of shared
-    > technology and business services, allowing functionality and
-    > services to be exposed for reuse
+-   Maximize use of Department HIT expenditures through reuse of shared technology and business services, allowing functionality and services to be exposed for reuse
 
 -   Alignment of business needs and business processes across Divisions
 
--   Migration to a DHSS-enterprise, consumer-centric focus, moving away
-    > from siloed, program-specific perspectives.
+-   Migration to a DHSS-enterprise, consumer-centric focus, moving away from siloed, program-specific perspectives.
 
 We are targeting an enterprise Service Oriented Architecture (SOA)
 consistent with Medicaid Information Technology Architecture (MITA) and
@@ -1619,20 +1616,20 @@ outcomes with more cost effectiveness.
 
 #### 3.12.1.7.1 Enterprise Service Bus
 
-> The IT Infrastructure within DHSS has a BizTalk Enterprise Service Bus
-> (ESB). The Enterprise Service Bus (ESB) is a component of a modular,
-> Service Oriented Architecture (SOA) that promotes reusability and the
-> use of shared services. The ESB acts as a universal translation
-> program or a gateway for non-homogenous applications to share and
-> consume services.
+The IT Infrastructure within DHSS has a BizTalk Enterprise Service Bus
+(ESB). The Enterprise Service Bus (ESB) is a component of a modular,
+Service Oriented Architecture (SOA) that promotes reusability and the
+use of shared services. The ESB acts as a universal translation
+program or a gateway for non-homogenous applications to share and
+consume services.
 
 #### 3.12.1.7.2 Master Client Index
 
-> The IT Infrastructure within DHSS has a Master Client Index
-> (MultiVue). The Master Client Index is a component of a modular,
-> Service Oriented Architecture (SOA) that promotes the reusability and
-> the use of shared services. The Master Client Index acts as the
-> universal client demographic database.
+The IT Infrastructure within DHSS has a Master Client Index
+(MultiVue). The Master Client Index is a component of a modular,
+Service Oriented Architecture (SOA) that promotes the reusability and
+the use of shared services. The Master Client Index acts as the
+universal client demographic database.
 
 [^1]: In April 2017, Governor Walker signed administrative order 284,
     centralizing all State of Alaska IT staff under the Office of
