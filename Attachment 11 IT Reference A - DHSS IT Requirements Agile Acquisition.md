@@ -510,7 +510,7 @@ Strategy](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchi
 
 #### Requirement
 
-> Requirements, design documents, source code, configuration files and
+> Requirements, design documents, source code, configuration files, documentation, and
 > binaries that are versioned through time must be managed in one or
 > more version control repositories such that any released version of
 > these artifacts can be retrieved later to rebuild the information
