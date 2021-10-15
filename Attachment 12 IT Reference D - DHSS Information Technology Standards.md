@@ -197,6 +197,7 @@ No unique hardware standards for Information Security Compliance and Privacy Ser
  | --------------- | ----------------------- | ---------------- |
  |  NIST 800-53 v4 | Standardized security controls |  Reference for security plan control set |
  |  NIST 800-66    | Standard subset of NIST  800-53 controls for HIPAA | Selection criteria for security plan control set for HIPAA systems |
+ |  MARS-E 2.0     | CMS specific security controls for healthcare exchanges | Required for applicable systems with CMS approval |
                               
 ### 2.7 Enterprise Desktop Service Standards
 
