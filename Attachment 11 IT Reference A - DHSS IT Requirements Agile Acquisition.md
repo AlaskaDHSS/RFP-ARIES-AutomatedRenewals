@@ -621,7 +621,7 @@ licensing](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 #### Requirement
 
-> If a federal grant was used for this solution, the federal government
+> If federal funds are used for this solution, the federal government
 > reserves a royalty-free, non-exclusive, and irrevocable license to
 > reproduce, publish, or otherwise use, and to authorize others to use,
 > for federal government purposes, the copyright in any work developed
