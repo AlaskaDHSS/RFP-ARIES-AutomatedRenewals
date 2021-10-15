@@ -1125,9 +1125,9 @@ Reference H does not apply to these scenarios.
 > Offeror's plan must include schedule contingencies to mitigate DHSS
 > business risks of failing to obtain the ATO by the business deadlines.
 > For example, if the DHSS organization using the solution must have the
-> solution operating by December 1st, the Offeror's plan must include
+> solution operating by December 1<sup>st</sup>, the Offeror's plan must include
 > schedule contingencies and mitigations to ensure the ATO is received
-> well ahead of December 1st with enough time for the DHSS
+> well ahead of December 1<sup>st</sup> with enough time for the DHSS
 > organization to communicate with stakeholders if that deadline is at
 > risk of being met.
 
