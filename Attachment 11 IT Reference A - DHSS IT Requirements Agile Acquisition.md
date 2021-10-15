@@ -963,7 +963,7 @@ within the System Operations and Administration Services service line.
 > designs with DHSS IT stakeholders in the System Operations and
 > Administration Services service line.
 >
-> The Offeror must strive to extend DevSecOpsMVP principles and
+> The Offeror must strive to extend DevSecOps principles and
 > repository content in their approach to all configuration change items
 > required for target environments, and must engage the System
 > Operations and Administration staff allocated to the project to
