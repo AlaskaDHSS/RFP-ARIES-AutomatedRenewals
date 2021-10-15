@@ -659,15 +659,6 @@ Index (MCI). The MCI connects client demographic records across
 applications and systems that create, read, or update client, consumer
 or other person demographic data in DHSS systems.
 
-We are supplying you with the Person Services WSDL, which describes the
-web-services interface for accessing the DHSS MCI. Solutions that
-create, read, or update client, consumer, or other person demographic
-data must integrate with the MCI to ensure their demographic records are
-registered in the MCI and appropriately merged with matching client
-records in the index. Such solutions must also provide updates to the
-MCI that handle record duplication, deactivation. See IT Reference
-E---Person Services WSDL for the web service description.
-
 #### 3.5.2.1 Requirement -- Master Client Index (MCI) Integration
 
 > The Offeror must integrate their proposed solution with the DHSS
@@ -749,7 +740,7 @@ Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDH
 for details on this tool. We expect you will use a work management
 system and continuous integration and continuous deployment pipeline
 that we implement for you on our instance of the ALM platform. By
-operating this way, you will automatically meet requirement 3.5.4.2.
+operating this way, you will automatically meet requirement [*3.5.5.2*](#3552-requirement----software-development-lifecycle-sdlc).
 
 #### 3.5.5.1 Requirement -- Development Platform
 
@@ -1229,7 +1220,7 @@ Mobile devices for DHSS are:
     -   Configured with the latest version of Safari and Google Chrome.
 
     -   Software should not be dependent on a specific version of MS
-        Office Suite. We are currently at 2010 -- but we move the
+        Office Suite. We are currently using the Office 365 version -- but we move the
         organization as a whole for the Department upgrades. We have
         over 4000 Department Staff.
 
@@ -1335,7 +1326,7 @@ Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDH
 > premise hosted solution components outside the identified DHSS
 > standards are required to provide additional information, including
 > DHSS Platform services aligned alternatives, as outlined in the
-> section [*3.9.1.4 Requirement -- Hosting Platform Alignment*](#3914-Requirement--Hosting Platform Alignment)
+> section [*3.9.1.4 Requirement -- Hosting Platform Alignment*](#3914-requirement----hosting-platform-alignment)
 > below.
 
 #### 3.9.1.3 Requirement -- Solution Platform Characteristics
