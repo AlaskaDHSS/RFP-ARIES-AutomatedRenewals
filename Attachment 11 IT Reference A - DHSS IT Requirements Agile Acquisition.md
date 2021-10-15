@@ -787,7 +787,7 @@ established a standard technical services platform for developing and
 operating software solutions. Additionally, we practice a simple
 software development lifecycle (SDLC), Scrum, and we employ structural
 code scanning tools within the practice of a secure development
-lifecycle (SecDLC). We expect you to align your proposal, processes and
+lifecycle (DevSecOps). We expect you to align your proposal, processes and
 work-products with this DHSS standard technical services platform.
 
 DHSS IT operates a leading application lifecycle management (ALM)
