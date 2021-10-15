@@ -1061,7 +1061,7 @@ additional security control requirements mandated by the sponsoring
 agency.
 
 In the case of systems sponsored by the Centers for Medicare and
-Medicaid Services (CMS), there must be a MARS-e compliant -- a different
+Medicaid Services (CMS), there must be a MARS-E compliant -- a different
 control set than the NIST 800-66 control set -- system security plan. IT
 Reference H does not apply to these scenarios.
 
@@ -1125,9 +1125,9 @@ Reference H does not apply to these scenarios.
 > Offeror's plan must include schedule contingencies to mitigate DHSS
 > business risks of failing to obtain the ATO by the business deadlines.
 > For example, if the DHSS organization using the solution must have the
-> solution operating by December 1^st^, the Offeror's plan must include
+> solution operating by December 1st, the Offeror's plan must include
 > schedule contingencies and mitigations to ensure the ATO is received
-> well ahead of December 1^st^ with enough time for the DHSS
+> well ahead of December 1st with enough time for the DHSS
 > organization to communicate with stakeholders if that deadline is at
 > risk of being met.
 
