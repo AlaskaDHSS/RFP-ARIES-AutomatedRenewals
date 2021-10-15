@@ -8,45 +8,45 @@ Department of Health & Social Services
 
 TABLE OF CONTENTS
 
-[1 Purpose of IT Requirements for Modular Acquisition](#purpose-of-it-requirements-for-modular-acquisition)
+[1 Purpose of IT Requirements for Modular Acquisition](#1-purpose-of-it-requirements-for-modular-acquisition)
 
-[1.1 IT Services Organization Summary](#it-services-organization-summary)
+[1.1 IT Services Organization Summary](#11-it-services-organization-summary)
 
-[1.2 IT Requirements Intent and Approach](#it-requirements-intent-and-approach)
+[1.2 IT Requirements Intent and Approach](#12-it-requirements-intent-and-approach)
 
-[1.3 Operational Delivery Models](#operational-delivery-models)
+[1.3 Operational Delivery Models](#13-operational-delivery-models)
 
-[2 Technical Qualifications Response](#technical-qualifications-response)
+[2 Technical Qualifications Response](#2-technical-qualifications-response)
 
-[2.1 Understanding of the Technical Aspects of the Project](#understanding-of-the-technical-aspects-of-the-project)
+[2.1 Understanding of the Technical Aspects of the Project](#21-understanding-of-the-technical-aspects-of-the-project)
 
-[3 State of Alaska DHSS Technology Services and Standards](#state-of-alaska-dhss-technology-services-and-standards)
+[3 State of Alaska DHSS Technology Services and Standards](#3-state-of-alaska-dhss-technology-services-and-standards)
 
-[3.1 DHSS Information Technology Services Staffing Support](#dhss-information-technology-services-staffing-support)
+[3.1 DHSS Information Technology Services Staffing Support](#31-dhss-information-technology-services-staffing-support)
 
-[3.2 Engagement and Service Delivery Management Services and Standards](#engagement-and-service-delivery-management-services-and-standards)
+[3.2 Engagement and Service Delivery Management Services and Standards](#32-engagement-and-service-delivery-management-services-and-standards)
 
-[3.3 Project Portfolio Management Services and Standards](#project-portfolio-management-services-and-standards)
+[3.3 Project Portfolio Management Services and Standards](#33-project-portfolio-management-services-and-standards)
 
-[3.4 Asset Management Services and Standards](#asset-management-services-and-standards)
+[3.4 Asset Management Services and Standards](#34-asset-management-services-and-standards)
 
-[3.5 Systems Integration and DDI Services and Standards](#systems-integration-and-ddi-services-and-standards)
+[3.5 Systems Integration and DDI Services and Standards](#35-systems-integration-and-ddi-services-and-standards)
 
-[3.6 Systems Operations and Administration Services and Standards](#systems-operations-and-administration-services-and-standards)
+[3.6 Systems Operations and Administration Services and Standards](#36-systems-operations-and-administration-services-and-standards)
 
-[3.7 Information Security Compliance and Privacy Services and Standards](#information-security-compliance-and-privacy-services-and-standards)
+[3.7 Information Security Compliance and Privacy Services and Standards](#37-information-security-compliance-and-privacy-services-and-standards)
 
-[3.8 Enterprise Desktop and Mobility Services and Standards](#enterprise-desktop-and-mobility-services-and-standards)
+[3.8 Enterprise Desktop and Mobility Services and Standards](#38-enterprise-desktop-and-mobility-services-and-standards)
 
-[3.9 DHSS Hosting and Datacenter Services and Standards](#dhss-hosting-and-datacenter-services-and-standards)
+[3.9 DHSS Hosting and Datacenter Services and Standards](#39-dhss-hosting-and-datacenter-services-and-standards)
 
-[3.10 DHSS Wide Area Network, Telecommunications, and Perimeter Security Services and Standards](#dhss-wide-area-network-telecommunications-and-perimeter-security-services-and-standards)
+[3.10 DHSS Wide Area Network, Telecommunications, and Perimeter Security Services and Standards](#310-dhss-wide-area-network-telecommunications-and-perimeter-security-services-and-standards)
 
-[3.11 Accessibility](#accessibility)
+[3.11 Accessibility](#311-accessibility)
 
-[3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT Governance](#state-of-alaska-dhss-mitanhsia-standards-and-department-it-governance)
+[3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT Governance](#312state-of-alaska-dhss-mitanhsia-standards-and-department-it-governance)
 
-# Purpose of IT Requirements for Modular Acquisition
+# 1 Purpose of IT Requirements for Modular Acquisition
 
 *We...*
 
@@ -124,76 +124,28 @@ part to help you succeed!
 
 So, let's talk a little about the DHSS IT organization...
 
-## IT Services Organization Summary
+## 1.1 IT Services Organization Summary
 
 IT services are centralized in DHSS[^1] within the DHSS Division of
 Finance and Management Services (FMS) Information Technology Services
 (ITS) section. The service lines this organization supports are
 identified in the table and diagram below.
 
-  -----------------------------------------------------------------------
-  **Service Line**                    **Description**
-  ----------------------------------- -----------------------------------
-  Staffing Support                    Services to manage IT support staff
-                                      and their availability
+| **Service Line**                                                  | **Description**                                                                                                                                                                                                   |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Staffing Support                                                  | Services to manage IT support staff and their availability                                                                                                                                                        |
+| Engagement and Service Delivery Management                        | Services to engage with customers and manage delivery of all IT services                                                                                                                                          |
+| Project Portfolio Management                                      | Services to support project management enterprise process development and execution                                                                                                                               |
+| Asset Management                                                  | Services to manage software licensing and other software and information assets                                                                                                                                   |
+| Systems Integration and DDI                                       | Services to support system architecture development, integration between DHSS systems and information system design, development and implementation                                                               |
+| Systems Operations and Administration                             | Services to support technical system operations and system administration                                                                                                                                         |
+| Information Security Compliance and Privacy                       | Services to support legal compliance with information security, privacy, and ongoing development/maintenance of security policy and practice                                                                      |
+| Enterprise Desktop and Mobility                                   | Services to define, deploy and support the DHSS enterprise desktop and mobility endpoints                                                                                                                         |
+| DHSS Hosting and Datacenter                                       | Services to design, implement and operate standard information technology infrastructure and platform offerings                                                                                                   |
+| DHSS Wide Area Network, Telecommunications and Perimeter Security | Services to integrate the DHSS LAN with the State of Alaska (SOA) wide area network, telecommunications and perimeter security managed by Department of Administration (DOA) Office of Information Technology (OIT) |
+| Accessibility                                                     | Services to define IT accessibility standards. In practical terms, DHSS aims to meet the State of Alaska compliance program with the American’s with Disabilities Act                                             |
+| MITA/NHSIA                                                        | Services to support community of practice style adoption of MITA/NHSIA standards                                                                                                                                  |
 
-  Engagement and Service Delivery     Services to engage with customers
-  Management                          and manage delivery of all IT
-                                      services
-
-  Project Portfolio Management        Services to support project
-                                      management enterprise process
-                                      development and execution
-
-  Asset Management                    Services to manage software
-                                      licensing and other software and
-                                      information assets
-
-  Systems Integration and DDI         Services to support system
-                                      architecture development,
-                                      integration between DHSS systems
-                                      and information system design,
-                                      development and implementation
-
-  Systems Operations and              Services to support technical
-  Administration                      system operations and system
-                                      administration
-
-  Information Security Compliance and Services to support legal
-  Privacy                             compliance with information
-                                      security, privacy, and ongoing
-                                      development/maintenance of security
-                                      policy and practice
-
-  Enterprise Desktop and Mobility     Services to define, deploy and
-                                      support the DHSS enterprise desktop
-                                      and mobility endpoints
-
-  DHSS Hosting and Datacenter         Services to design, implement and
-                                      operate standard information
-                                      technology infrastructure and
-                                      platform offerings
-
-  DHSS Wide Area Network,             Services to integrate the DHSS LAN
-  Telecommunications and Perimeter    with the State of Alaska (SOA) wide
-  Security                            area network, telecommunications
-                                      and perimeter security managed by
-                                      Department of Administration (DOA)
-                                      Office of Information Technology
-                                      (OIT)
-
-  Accessibility                       Services to define IT accessibility
-                                      standards. In practical terms, DHSS
-                                      aims to meet the State of Alaska
-                                      compliance program with the
-                                      American's with Disabilities Act
-
-  MITA/NHSIA                          Services to support community of
-                                      practice style adoption of
-                                      MITA/NHSIA standards
-  -----------------------------------------------------------------------
-
-  : Table 1 - Example technical services components
 
 ![](media/image2.png)
 
@@ -203,7 +155,7 @@ supporting 3000+ program staff via various IT service lines. New IT
 solutions are great, and we're excited to work with you using these
 services lines to get to done.
 
-## IT Requirements Intent and Approach
+## 1.2 IT Requirements Intent and Approach
 
 DHSS IT believes that modular acquisition properly aligns the risks and
 responsibilities. DHSS owns the end-product. So, we own the risks and
@@ -243,11 +195,11 @@ line view of the DHSS IT organization. For example, we have located
 requirements related to desktop and mobile endpoints in the "Enterprise
 Desktop Services and Standards" section.
 
-Note that specific technology product standards are located in *IT
-Reference D: DHSS Information Technology Standards*, which is structured
+Note that specific technology product standards are located in [*Attachment 12 IT
+Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md), which is structured
 similarly to the IT Requirements document.
 
-## Operational Delivery Models
+## 1.3 Operational Delivery Models
 
 In our agile acquisition model, DHSS owns the product and we expect to host
 product components in either DHSS datacenters or a DHSS managed cloud
@@ -268,16 +220,16 @@ By prescribing some basic elements of the delivery models -- where the
 solution is hosted, who is managing it, and a few details on how they
 are managing it -- we all start with a solid foundation.
 
-# Technical Qualifications Response
+# 2 Technical Qualifications Response
 
-## Understanding of the Technical Aspects of the Project
+## 2.1 Understanding of the Technical Aspects of the Project
 
 We encourage you to read each section and consider the implications of
 working inside the DHSS IT Environment. We expect to gauge your
 understanding of the technical aspects of the project from your written
 proposal and during verbal presentation.
 
-# State of Alaska DHSS Technology Services and Standards
+# 3 State of Alaska DHSS Technology Services and Standards
 
 DHSS Division of Finance and Management Services (FMS) Information
 Technology Services (ITS) provides Information technology services for
@@ -305,9 +257,9 @@ remodeling in progress!
 
 Ready? Let's begin!
 
-## DHSS Information Technology Services Staffing Support
+## 3.1 DHSS Information Technology Services Staffing Support
 
-### DHSS IT Staffing Support Model Defined
+### 3.1.1  DHSS IT Staffing Support Model Defined
 
 DHSS IT standard staffing support hours are Monday through Friday 8:00
 AM to 5:00 PM Alaska Time. We work hard, and we know you work hard too.
@@ -325,7 +277,7 @@ a shared calendar of standard working hours and holidays? In combination
 with the daily scrum meetings, we'll probably never run into a problem
 with someone not being around when you need them.
 
-#### Requirement
+#### 3.1.1.1 Requirement
 
 > If you need our support outside our working hours we recommend a
 > couple options: 1) With some reasonable lead time, make a plan with us
@@ -333,7 +285,7 @@ with someone not being around when you need them.
 > planning and work with us to come up with options that have the least
 > impact to staff whose support you require.
 
-## Engagement and Service Delivery Management Services and Standards
+## 3.2 Engagement and Service Delivery Management Services and Standards
 
 We like to work proactively with our customers. When a need emerges at
 the last minute, it's hard to deliver a satisfying product. Engagement
@@ -348,18 +300,18 @@ following organizational mapping:
 
 ![](media/image3.png)
 
-### Contract Negotiations IT Review and Approval
+### 3.2.1 Contract Negotiations IT Review and Approval
 
 We will be there with you and our program and procurement staff at the
 table to identify and agree on any contractual elements we will need to
 support.
 
-#### Requirement -- IT Contract Review
+#### 3.2.1.1 Requirement -- IT Contract Review
 
 > The Offeror must be prepared to work with DHSS IT, Procurement and
 > Program staff to review and approve all IT related contract elements.
 
-### Project Kickoff Service Line Road-mapping
+### 3.2.2 Project Kickoff Service Line Road-mapping
 
 Since we'll be working together, we believe a few hours of time with you
 up front to identify any known services support you will need is time
@@ -370,14 +322,14 @@ discover you need something we're not prepared to help with, or
 vice-versa. Think of this as a road-mapping exercise. We're confident
 this will save us both time in the long run!
 
-#### Requirement -- DHSS IT Service Line Road-mapping
+#### 3.2.2.1 Requirement -- DHSS IT Service Line Road-mapping
 
 > The Offeror must include project activities to reach agreement with
 > DHSS IT and Program staff on DHSS IT support service lines and
 > identify any gaps. All gaps identified must include a plan of action
 > to address and resolve the gaps.
 
-### DHSS Service Line Engagement and Planning 
+### 3.2.3 DHSS Service Line Engagement and Planning 
 
 Once we have agreed that services are required from a specific DHSS IT
 service line, we like to find the right time to do a little more
@@ -392,7 +344,7 @@ line engagement planning during the first couple sprints and as needed
 after that time. Since you will be working at our direction, this will
 meet the intent of requirement 3.2.3.1 below.
 
-#### Requirement -- DHSS IT Service Line Engagement and Planning Workshops
+#### 3.2.3.1 Requirement -- DHSS IT Service Line Engagement and Planning Workshops
 
 > The Offeror must include project activities to reach agreement with
 > DHSS IT and Program staff representatives on the DHSS IT service line
@@ -403,7 +355,7 @@ meet the intent of requirement 3.2.3.1 below.
 > line road-mapping engagement should be reviewed, and detailed action
 > plans created to address the gaps.
 
-### DHSS Service Line Management Processes and Tools
+### 3.2.4 DHSS Service Line Management Processes and Tools
 
 You are part of a small, effective and agile team. Changing processes
 and tools is part and parcel of the trade for you. We are a relatively
@@ -418,7 +370,7 @@ strength to adapt to the processes and tools we have. If we're missing
 something, or if you see a significant opportunity, we're excited to
 learn better ways of doing things.
 
-#### Requirement -- Service Line Management Processes and Tools Alignment
+#### 3.2.4.1 Requirement -- Service Line Management Processes and Tools Alignment
 
 > The Offeror must be prepared to work with DHSS IT service line
 > management processes and tools. For each DHSS IT service line
@@ -445,12 +397,12 @@ learn better ways of doing things.
 > that service-line to ensure the Offeror, DHSS IT and DHSS Program
 > staffs understand the current processes and tools.
 
-## Project Portfolio Management Services and Standards
+## 3.3 Project Portfolio Management Services and Standards
 
 For our agile acquisition practice, we currently address Project
 Portfolio Management service line requirements directly in the RFP.
 
-## Asset Management Services and Standards
+## 3.4 Asset Management Services and Standards
 
 We mentioned in Section 1 that we have a lot of information systems.
 That means a lot of requirements, test artifacts, documentation,
@@ -488,10 +440,11 @@ Services is matrixed per the following organizational mapping:
 
 ![](media/image4.png)
 
-### Artifact Version Management
+### 3.4.1 Artifact Version Management
 
 We operate a leading application lifecycle management (ALM) solution.
-See *IT Reference D---DHSS Information Technology Standards* for details
+See [*Attachment 12 IT
+Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md) for details
 on this tool. We're sure it won't surprise you that the folks who pay
 the bills want us to receive and manage the artifacts you create. In our
 agile acquisition practice we have added service supports to
@@ -504,11 +457,11 @@ In our agile acquisition practice, we expect you to define work within
 our ALM work-item structure and associate change sets with that work. We
 also expect you to clone Git repositories from our ALM solution,
 complete work and deliver that work regularly by pushing branches and
-submitting pull requests. This is outlined in detail in our DevSecOpsMVP
-repository's [Git Branching
-Strategy](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
+submitting pull requests. This is outlined in detail in our EIS Modernization GitHub repository 
+[Git Branching
+Strategy](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/azure-devops/GitBranchingStrategy.md).
 
-#### Requirement
+#### 3.4.1.1 Requirement
 
 > Requirements, design documents, source code, configuration files, documentation, and
 > binaries that are versioned through time must be managed in one or
@@ -519,7 +472,7 @@ Strategy](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchi
 > made that can be loaded into the version control repository and
 > release-managed in an equivalent manner to source code.
 
-###  Licensing Agreement
+###  3.4.2 Licensing Agreement
 
 DHSS intends that any data or deliverable created as a result of the
 work performed under the task order be committed to the public domain.
@@ -552,7 +505,7 @@ is not available, the Offeror shall attach or include the license within
 the work itself. Examples of this include code comments at the beginning
 of a file or contained in a license file within a software repository.
 
-#### Requirement
+#### 3.4.2.1 Requirement
 
 > The license shall include, but not be limited to:
 
@@ -599,9 +552,9 @@ of a file or contained in a license file within a software repository.
 > development, operation, or maintenance of any component part of the
 > system.
 
-### Software Procurement Assurance -- Guaranteed Access to Software 
+### 3.4.3 Software Procurement Assurance -- Guaranteed Access to Software 
 
-#### Requirement
+#### 3.4.3.1 Requirement
 
 > The State shall have full and complete access to all source code,
 > documentation, utilities, software tools and other similar items used
@@ -609,7 +562,7 @@ of a file or contained in a license file within a software repository.
 > maintaining or enhancing the equipment and solution after it is
 > operating in a production environment.
 
-### Software Procurement Assurance -- Federal Rights 
+### 3.4.4 Software Procurement Assurance -- Federal Rights 
 
 Sometimes we are not the only one paying the bill. When the federal
 government is buying services to write software and create new
@@ -619,7 +572,7 @@ product of this engagement will be released in the public domain under
 [Creative Commons zero (CC0)
 licensing](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-#### Requirement
+#### 3.4.4.1 Requirement
 
 > If federal funds are used for this solution, the federal government
 > reserves a royalty-free, non-exclusive, and irrevocable license to
@@ -627,9 +580,9 @@ licensing](https://creativecommons.org/share-your-work/public-domain/cc0/).
 > for federal government purposes, the copyright in any work developed
 > under a grant, sub-grant.
 
-### Data Ownership
+### 3.4.5 Data Ownership
 
-#### Requirement -- Data Ownership
+#### 3.4.5.1 Requirement -- Data Ownership
 
 > The State shall have unlimited rights to use, disclose or duplicate,
 > for any purpose whatsoever, all information and data developed,
@@ -646,7 +599,7 @@ licensing](https://creativecommons.org/share-your-work/public-domain/cc0/).
 > solution, in whole or in part, in a format as agreed upon by both
 > parties.
 
-## Systems Integration and DDI Services and Standards
+## 3.5 Systems Integration and DDI Services and Standards
 
 We love implementing cool new solutions for our customers. We can't do
 it all, but we do internally resource some core Systems Integration and
@@ -675,7 +628,7 @@ architecture elements before you deliver your proposal. These elements
 include information exchange architecture, master data management, IRIS
 and ALDER integration, and technical services and development platform.
 
-### Information Exchange Architecture
+### 3.5.1 Information Exchange Architecture
 
 In our legacy practices, we have a long history of implementing one-off
 data exchange methods. By themselves, these are often simple to
@@ -690,12 +643,12 @@ information exchange. Together, the ESB and the HIE can substantially
 reduce the operational complexity of moving data between systems hosted
 On-DHSS premise and Off-site.
 
-#### Requirement
+#### 3.5.1.1 Requirement
 
 > Data exchange interfaces must leverage the DHSS ESB and/or the
 > statewide HIE, where applicable.
 
-### Master Data Management
+### 3.5.2 Master Data Management
 
 In our legacy practices, we struggled to understand how many unique
 clients/consumers/participants were using or consuming our services. To
@@ -715,7 +668,7 @@ records in the index. Such solutions must also provide updates to the
 MCI that handle record duplication, deactivation. See IT Reference
 E---Person Services WSDL for the web service description.
 
-#### Requirement -- Master Client Index (MCI) Integration
+#### 3.5.2.1 Requirement -- Master Client Index (MCI) Integration
 
 > The Offeror must integrate their proposed solution with the DHSS
 > Master Client Index (MCI) if the Offeror's proposed solution will
@@ -736,7 +689,7 @@ E---Person Services WSDL for the web service description.
 > duplication, deactivation and similar record management scenarios
 > occur within the scope of the Offeror's proposed solution.
 
-### IRIS and ALDER Integration
+### 3.5.3 IRIS and ALDER Integration
 
 We use the State of Alaska Enterprise Resource Planning system, IRIS,
 for managing finance, accounting, property-asset, and HR management
@@ -748,7 +701,7 @@ appropriate integration approach that avoids duplication of services and
 addresses developing and integrating complementary solution services and
 functions.
 
-#### Requirement -- ERP Function Analysis
+#### 3.5.3.1 Requirement -- ERP Function Analysis
 
 > Offerors whose proposed solution includes finance, accounting and HR
 > functions must plan to conduct a gap analysis activity with DHSS IT
@@ -759,7 +712,7 @@ functions.
 > to support this gap analysis and DDI activities to interface between
 > IRIS, ALDER and the proposed solution.
 
-### Authentication and Single Sign On
+### 3.5.4 Authentication and Single Sign On
 
 DHSS has established a standard authentication platform, using
 Microsoft's Active Directory (AD) to support authentication for DHSS
@@ -770,7 +723,7 @@ AD allows the Offeror's solution to inherit the account management,
 authentication, and audit-logging features of the DHSS AD to validate
 authorized access and meet several technical security controls.
 
-#### Requirement -- Single Sign On 
+#### 3.5.4.1 Requirement -- Single Sign On 
 
 > The Offeror must integrate their solution with the Alaska DHSS AD. The
 > integration must support authentication via the DHSS AD domain to
@@ -778,7 +731,7 @@ authorized access and meet several technical security controls.
 > include cost and activities in their proposal to support the DHSS AD
 > integration.
 
-### Technical Services and Development Platform
+### 3.5.5 Technical Services and Development Platform
 
 In our legacy practices, we struggled with individuals who made
 technology choices without respect to cost and based solely on the
@@ -791,16 +744,17 @@ lifecycle (DevSecOps). We expect you to align your proposal, processes and
 work-products with this DHSS standard technical services platform.
 
 DHSS IT operates a leading application lifecycle management (ALM)
-platform. See *IT Reference D---DHSS Information Technology Standards*
+platform. See [*Attachment 12 IT
+Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md)
 for details on this tool. We expect you will use a work management
 system and continuous integration and continuous deployment pipeline
 that we implement for you on our instance of the ALM platform. By
 operating this way, you will automatically meet requirement 3.5.4.2.
 
-#### Requirement -- Development Platform
+#### 3.5.5.1 Requirement -- Development Platform
 
-> The Offeror will use the software identified in *IT Reference D---DHSS
-> Information Technology Standards* for the development and deployment
+> The Offeror will use the software identified in [*Attachment 12 IT
+Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md) for the development and deployment
 > of this application. The Offeror must collaborate with the State to
 > determine all development and operating platform software and versions
 > the application components are designed in, and how this solution will
@@ -808,7 +762,7 @@ operating this way, you will automatically meet requirement 3.5.4.2.
 > and the Offeror will identify what skills and expertise would be
 > needed to support any proposed changes to the DHSS IT Environment.
 
-#### Requirement -- Software Development Lifecycle (SDLC)
+#### 3.5.5.2 Requirement -- Software Development Lifecycle (SDLC)
 
 > The Offeror must apply a methodology that demonstrates key elements of
 > SDLC, including:
@@ -836,7 +790,7 @@ operating this way, you will automatically meet requirement 3.5.4.2.
 > manage artifacts of the SDLC and must align this toolset with the
 > standard DHSS SDLC tools.
 
-#### Requirement -- Secure Development Lifecycle (SecDLC)
+#### 3.5.5.3 Requirement -- Secure Development Lifecycle (SecDLC)
 
 > The Offeror must complete software development in a manner to address
 > the CWE/SANS Top 25 Most Dangerous Programming Errors.
@@ -855,7 +809,7 @@ operating this way, you will automatically meet requirement 3.5.4.2.
     third party software meets all the terms of this agreement and is as
     secure as the custom developed code developed under this agreement.
 
-## Systems Operations and Administration Services and Standards
+## 3.6 Systems Operations and Administration Services and Standards
 
 System Operations and Administration Services includes the activities we
 perform to support technical system operations and system
@@ -867,7 +821,7 @@ following organizational mapping:
 
 ![](media/image6.png)
 
-### Administration Services and Standards
+### 3.6.1 Administration Services and Standards
 
 DHSS IT operate and manage technical services for DHSS information
 systems and applications. This includes ongoing administration,
@@ -875,70 +829,41 @@ configuration monitoring and security patching of the underlying
 software components of the solution. Typically, these are the components
 that support technical services such as:
 
-  -----------------------------------------------------------------------
-  **Business Service**                **Example Technical Service
-                                      Component**
-  ----------------------------------- -----------------------------------
-  Collaboration                       Microsoft SharePoint
+Table 1 - Example technical services components
 
-                                      Microsoft Office / O365
+| **Business Service**                          | **Example Technical Service Component** |
+| --------------------------------------------- | --------------------------------------- |
+| Collaboration                                 | Microsoft SharePoint                    |
+|                                               | Microsoft Office / O365                 |
+| Business Information Management               | Microsoft .NET                          |
+|                                               | Microsoft Internet Information Services |
+|                                               | Microsoft Dynamics CRM                  |
+| Master Data Management                        | Visionware MultiVue                     |
+| Reporting and Business Intelligence           | Microsoft SQL Server Reporting Services |
+|                                               | Microsoft SQL Server Analysis Services  |
+|                                               | Microsoft Power Query / Power BI        |
+|                                               | Microsoft Machine Learning              |
+| System Integration                            | Microsoft BizTalk                       |
+|                                               | Microsoft Message Queue                 |
+|                                               | Visionware MultiVue                     |
+| Job Scheduling                                | Microsoft SQL Server Agent              |
+| Data-persistence/repository                   | Microsoft SQL Server                    |
+| Domain, Directory, Authentication, Policy     | Microsoft Active Directory              |
+| Host Intrusion Prevention, Policy, Anti-virus | McAfee                                  |
+| Audit-logging                                 | Splunk                                  |
+| Host Operating System                         | Microsoft Windows Workstation           |
+|                                               | Microsoft Windows Server                |
+| Security Policy and Compliance                | RSA Archer                              |
+| Application Lifecycle Management              | Microsoft AzureDevOps and Team Foundation Server      |
+|                                               | Microsoft SQL Server Reporting Services |
+|                                               | Microsoft SharePoint                    |
 
-  Business Information Management     Microsoft .NET
-
-                                      Microsoft Internet Information
-                                      Services
-
-                                      Microsoft Dynamics CRM
-
-  Master Data Management              Visionware MultiVue
-
-  Reporting and Business Intelligence Microsoft SQL Server Reporting
-                                      Services
-
-                                      Microsoft SQL Server Analysis
-                                      Services
-
-                                      Microsoft Power Query / Power BI
-
-                                      Microsoft Machine Learning
-
-  System Integration                  Microsoft BizTalk
-
-                                      Microsoft Message Queue
-
-                                      Visionware MultiVue
-
-  Job Scheduling                      Microsoft SQL Server Agent
-
-  Data-persistence/repository         Microsoft SQL Server
-
-  Domain, Directory, Authentication,  Microsoft Active Directory
-  Policy                              
-
-  Host Intrusion Prevention, Policy,  McAfee
-  Anti-virus                          
-
-  Audit-logging                       Splunk
-
-  Host Operating System               Microsoft Windows Workstation
-
-                                      Microsoft Windows Server
-
-  Security Policy and Compliance      RSA Archer
-
-  Application Lifecycle Management    Microsoft Team Foundation Server
-
-                                      Microsoft SQL Server Reporting
-                                      Services
-
-                                      Microsoft SharePoint
-  -----------------------------------------------------------------------
-
-See *IT Reference D---DHSS Information Technology Standards* for the
+See [*Attachment 12 IT
+Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md) for the
 list of actual technical service components administered by DHSS IT
 within the System Operations and Administration Services service line.
 
-#### Requirement -- Centralized Technical Administration
+#### 3.6.1.1 Requirement -- Centralized Technical Administration
 
 > The Offeror must understand that information technology administration
 > duties are restricted to qualified individuals within the centralized
@@ -970,7 +895,7 @@ within the System Operations and Administration Services service line.
 > collaboratively design, implement and use the resulting processes and
 > tools.
 
-#### Requirement -- Authorized Access
+#### 3.6.1.2 Requirement -- Authorized Access
 
 > The Offeror must follow DHSS standard operating procedures for
 > obtaining and terminating access to DHSS facilities and systems. To
@@ -984,7 +909,7 @@ within the System Operations and Administration Services service line.
 > personnel notification requirements with stricter timelines within the
 > contract. (NIST 800-53 r4 PS 04 D)
 
-## Information Security Compliance and Privacy Services and Standards
+## 3.7 Information Security Compliance and Privacy Services and Standards
 
 Information Security Compliance and Privacy Services include the
 activities we perform to support legal compliance with information
@@ -1009,7 +934,7 @@ sprint. This approach meets several of the requirements established by
 our Department Security Office, such as planning sufficient lead time to
 mitigate business impacts of late delivery, etc.
 
-### Data Retention/Destruction
+### 3.7.1 Data Retention/Destruction
 
 As a government agency we create, update, read and destroy a combination
 of public and confidential records. So, under the law and filed data
@@ -1022,21 +947,20 @@ have to destroy some data.
     comparable techniques and under your Business Associates Agreement
     with DHSS (when applicable).
 
-####  Requirement -- Record Retention
+####  3.7.1.1 Requirement -- Record Retention
 
 > The Offeror must comply with the Department of Health & Social
 > Service's policies and procedures for record retention
 > (<http://archives.alaska.gov/records_management/schedules/hss_retention.html>)
-> and disposal of sensitive information (IT Reference F---Data
-> Destruction Information and References), if applicable.
+> and disposal of sensitive information ([*Attachment 13 IT Reference F - Data Destruction Information and References*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2013%20IT%20Reference%20F%20-%20Data%20Destruction%20Information%20and%20References.pdf)), if applicable.
 
-#### Requirement -- Data Destruction
+#### 3.7.1.2 Requirement -- Data Destruction
 
 > The Offeror must provide procedures and agree to all data (including
 > test data) destruction when contract ends if continuing operations and
 > maintenance is not provided by the contractor.
 
-### Security Controls
+### 3.7.2 Security Controls
 
 We succeed or fail in maintaining the public trust via our ability to
 properly secure information. To measure our performance and address
@@ -1051,8 +975,7 @@ reviewed by the Department Security Office and/or their designees.
 
 We audit security controls for the DHSS Risk Assessment regardless of
 whether an application/solution is hosted on premise or elsewhere. The
-Department's current IT security standards are provided in IT Reference
-H---Security Standards - NIST800-53 Controls
+Department's current IT security standards are provided in [*Attachment 14 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2014%20IT%20Reference%20H%20-%20DHSS%20Sample%20Security%20Authorization%20Package%20-%20Moderate%20Control%20Set%20(1).pdf)
 
 We use a FIPS-199 based process to assess business impacts and select
 controls. Generally, a moderate impact categorized system will use a
@@ -1065,7 +988,7 @@ Medicaid Services (CMS), there must be a MARS-E compliant -- a different
 control set than the NIST 800-66 control set -- system security plan. IT
 Reference H does not apply to these scenarios.
 
-#### Requirement -- Authorization Package
+#### 3.7.2.1 Requirement -- Authorization Package
 
 > Within the proposed scope of work and activities, the Offeror must
 > collaborate with the State to develop and submit:
@@ -1092,7 +1015,7 @@ Reference H does not apply to these scenarios.
 
 ![](media/image8.png)
 
-#### Requirement -- Security Control Verification
+#### 3.7.2.2 Requirement -- Security Control Verification
 
 > After the authorization package is complete it is subject for review
 > and acceptance from the DHSS Department Security Office (DSO) and
@@ -1106,14 +1029,14 @@ Reference H does not apply to these scenarios.
 > control verification and an appropriate number of remediation
 > iterations to address defects identified.
 
-#### Requirement -- Business Associate Agreement
+#### 3.7.2.3 Requirement -- Business Associate Agreement
 
 > DHSS operates as a single covered entity. If the scope of contracted
 > work requires sharing confidential data under HIPAA, the DHSS Business
 > Associate Agreement must be signed at contract award in accordance
-> with IT Reference H.
+> with [*Attachment 14 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2014%20IT%20Reference%20H%20-%20DHSS%20Sample%20Security%20Authorization%20Package%20-%20Moderate%20Control%20Set%20(1).pdf).
 
-#### Requirement -- Authority to Operate
+#### 3.7.2.4 Requirement -- Authority to Operate
 
 > Once all security compliance is established via approved system
 > authorization package(s) and signed business associate agreements, as
@@ -1131,7 +1054,7 @@ Reference H does not apply to these scenarios.
 > organization to communicate with stakeholders if that deadline is at
 > risk of being met.
 
-### Auditing and Logging Integration
+### 3.7.3 Auditing and Logging Integration
 
 Whether we are auditing access to confidential data, or reviewing
 forensics of possible malware/misuse incidents, we require all systems
@@ -1142,7 +1065,7 @@ accessed.
 For logging and audit, DHSS uses SPLUNK. The application must generate
 audit data in a concise summary that is easily integrated into SPLUNK.
 
-#### Requirement
+#### 3.7.3.1 Requirement
 
 > The Offeror's proposed solution must integrate with DHSS SPLUNK
 > infrastructure. The Offeror's proposed solution must include
@@ -1150,7 +1073,7 @@ audit data in a concise summary that is easily integrated into SPLUNK.
 > activities for standard log formats and customizing log parsing for
 > non-standard log formats.
 
-### Data Security
+### 3.7.4 Data Security
 
 DHSS is considered a single covered entity in regards to HIPAA and APIPA
 which governs security requirements for ePHI, HIPAA, and PII. We are
@@ -1162,7 +1085,7 @@ decision reflects a DHSS legal jurisdiction related to due process --
 must ensure DHSS retains access to all the data required to support the
 decision.
 
-#### Requirement
+#### 3.7.4.1 Requirement
 
 > The Offeror's proposed solution must include, define and validate the
 > capabilities to return DHSS owned data to DHSS.
@@ -1174,12 +1097,12 @@ state. *Recovery Time Objective* (RTO) refers to the maximum time that
 may pass between the point in time when a system failure occurs and the
 point in time when the system is recovered.
 
-#### Requirement -- Recovery Point and Recovery Time Objectives
+#### 3.7.4.2 Requirement -- Recovery Point and Recovery Time Objectives
 
 > The Offeror's proposed solution must include and define RPO and RTO
 > capabilities.
 
-### Integration Security Controls
+### 3.7.5 Integration Security Controls
 
 When system interfaces (data exchange between systems) and integration
 requirements exist for a system, integration security controls must be
@@ -1193,13 +1116,13 @@ and the HIE provide architectural system integration and data exchange
 services that can be leveraged for re-use by On-DHSS premise and
 Off-site hosted information systems.
 
-#### Requirement
+#### 3.7.5.1 Requirement
 
 > The Offeror must demonstrate leverage of existing DHSS security
 > control investments by integrating with DHSS systems via the DHSS ESB
 > and/or the statewide HIE.
 
-## Enterprise Desktop and Mobility Services and Standards
+## 3.8 Enterprise Desktop and Mobility Services and Standards
 
 Enterprise Desktop and Mobility Services include the activities we
 perform to define, deploy and support the DHSS enterprise desktop and
@@ -1216,7 +1139,7 @@ organizational mapping:
 
 ![](media/image9.png)
 
-### Desktop Access and Configuration
+### 3.8.1 Desktop Access and Configuration
 
 In our agile acquisition practice, we expect to work with you to ensure
 that all software and hardware dependencies of your solution leverage
@@ -1224,8 +1147,8 @@ approved, supported hardware and software within our IT Environment. We
 also expect to define and develop software and processes that do not
 require elevated privileges to perform normal business functions. This
 approach ensures our Enterprise Desktop and Mobility requirements are
-met. See *IT Reference D---DHSS Information Technology Standards \>
-Enterprise Desktop Service Standards* for currently supported hardware,
+met. See [*Attachment 12 IT
+Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md) for currently supported hardware,
 operating system(s), web browser version(s) and desktop productivity
 software.
 
@@ -1239,12 +1162,12 @@ are browser neutral and support a wider set of all modern browsers than
 the DHSS standard browser. However, the DHSS deployed browser(s) must be
 supported.
 
-#### Requirement -- Hardware
+#### 3.8.1.1 Requirement -- Hardware
 
 > The Offeror must propose a solution that supports currently deployed,
 > or planned for deployment, DHSS end-user hardware.
 
-#### Requirement -- Desktop Access and Configuration
+#### 3.8.1.2 Requirement -- Desktop Access and Configuration
 
 > The Offeror must propose a solution that supports the DHSS currently
 > deployed desktop operating system (OS) and does not require elevated
@@ -1263,28 +1186,27 @@ supported.
 -   Establish installation, configuration and support procedures for
     each non-standard software component.
 
-#### Requirement -- Web Browser Compatibility
+#### 3.8.1.3 Requirement -- Web Browser Compatibility
 
 > The Offeror must plan to support proposed solution compatibility with
-> DHSS currently deployed web browser version(s) -- See IT Reference D
-> -- *Information Technology Standards \> Enterprise Desktop Service
-> Standards \> Software* for currently support browser versions. The
+> DHSS currently deployed web browser version(s) -- See [*Attachment 12 IT
+Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md) for currently support browser versions. The
 > required functionality of the solicitation must be fully supported, or
 > the Offeror must include in their proposal the plan cost and
 > activities to make the proposed solution fully supported
 
-#### Requirement -- Desktop Productivity Software Compatibility
+#### 3.8.1.4 Requirement -- Desktop Productivity Software Compatibility
 
 > The Offeror must plan to support DHSS currently deployed desktop
 > productivity suite version(s).
 
-#### Requirement -- Other Desktop Software and Components
+#### 3.8.1.5 Requirement -- Other Desktop Software and Components
 
 > The Offeror must delineate all the desktop software, access and
 > configuration requirements of the application not addressed elsewhere
 > in the Enterprise Desktop Services and Standards section.
 
-### Mobile Devices and Tablets
+### 3.8.2 Mobile Devices and Tablets
 
 Mobile devices for DHSS are:
 
@@ -1321,7 +1243,7 @@ with us on a mobile solution, we expect to work extensively with you.
 Extra time will be required from both of us to plan, secure, validate
 and deploy mobile end-point solutions.
 
-#### Requirement
+#### 3.8.2.1 Requirement
 
 > The Offeror must plan appropriate activities to support mobile device
 > endpoint integration. These activities must include selecting and
@@ -1329,7 +1251,7 @@ and deploy mobile end-point solutions.
 > device that supports all security compliance requirements of the data
 > being stored on or transmitted to/from the mobile device endpoints.
 
-## DHSS Hosting and Datacenter Services and Standards
+## 3.9 DHSS Hosting and Datacenter Services and Standards
 
 DHSS Hosting and Datacenter Services include the activities we perform
 to design, implement and operate standard information technology
@@ -1358,14 +1280,14 @@ Within our agile acquisition practice, we expect to work with you to
 design and implement components that will run either within our
 datacenters or within an Azure cloud tenant that we manage.
 
-### On-DHSS Premise Hosting Considerations
+### 3.9.1 On-DHSS Premise Hosting Considerations
 
 DHSS provides and maintains a standardized set of infrastructure and
 platform services to deliver a full-service private cloud offering,
 leveraging the State of Alaska Wide Area Network to span two
 geo-redundant data centers located in Juneau and Anchorage.
 
-#### Infrastructure
+#### 3.9.1.1 Infrastructure
 
 > DHSS uses a modern virtualization approach, guest-hosting hundreds of
 > virtual servers on a robust physical architecture consisting of
@@ -1381,7 +1303,7 @@ geo-redundant data centers located in Juneau and Anchorage.
 > inspection, protocol-based load-balancing and SSL/TLS offload
 > services.
 
-#### Platform
+#### 3.9.1.2 Platform
 
 > Leveraging more than a decade of investment and commitment to the
 > Microsoft platform, DHSS has architected a robust platform of services
@@ -1406,16 +1328,17 @@ geo-redundant data centers located in Juneau and Anchorage.
 > to affect change appropriately.
 >
 > The DHSS Infrastructure and Platform services component standards are
-> located in *IT Reference D---DHSS Information Technology Standards*.
+> located in [*Attachment 12 IT
+Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md).
 > DHSS is, generally, standardized on Microsoft software components for
 > our on-DHSS premise Platform services. Offerors who propose on-DHSS
 > premise hosted solution components outside the identified DHSS
 > standards are required to provide additional information, including
 > DHSS Platform services aligned alternatives, as outlined in the
-> section *3.9.1.4 Requirement -- Hosting Platform Alignment*
-> requirement below.
+> section [*3.9.1.4 Requirement -- Hosting Platform Alignment*](#3914-Requirement--Hosting Platform Alignment)
+> below.
 
-#### Requirement -- Solution Platform Characteristics
+#### 3.9.1.3 Requirement -- Solution Platform Characteristics
 
 > Proposals for hosting the solution on the State network should include
 > the responsibilities and communication process for DHSS IT for
@@ -1428,16 +1351,16 @@ geo-redundant data centers located in Juneau and Anchorage.
 > The Offeror must work with DHSS IT for all security mechanisms,
 > including patching updates.
 
-#### Requirement -- Hosting Platform Alignment
+#### 3.9.1.4 Requirement -- Hosting Platform Alignment
 
-> The Offeror will use the software identified in *IT Reference D---DHSS
-> Information Technology Standards* for the hosting of this application.
+> The Offeror will use the software identified in [*Attachment 12 IT
+Reference D: DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md) for the hosting of this application.
 > The Offeror must state which version the application components are
 > implemented in and how this solution will be accessed in the DHSS
 > environment. You will need to identify what skills and expertise would
 > be needed to support your proposed infrastructure.
 
-## DHSS Wide Area Network, Telecommunications, and Perimeter Security Services and Standards
+## 3.10 DHSS Wide Area Network, Telecommunications, and Perimeter Security Services and Standards
 
 DHSS Wide Area Network, Telecommunications and Perimeter Security
 Services include the activities we perform to integrate the DHSS LAN
@@ -1463,7 +1386,7 @@ ensure that all activities and work-products that require changes to the
 WAN are carefully moderated and submitted with the appropriate security
 review and oversight to pass review of the State Security Office.
 
-### State WAN and Bandwidth
+### 3.10.1 State WAN and Bandwidth
 
 The State Wide Area Network (WAN) is maintained at the enterprise level
 by the Department of Administration (DOA)/Office of Information
@@ -1491,7 +1414,7 @@ latency (> 1000 ms per TCP/IP transmission) that can expose performance
 and functional issues with applications that are not specifically
 designed and tested for low-latency operation.
 
-## Accessibility
+## 3.11 Accessibility
 
 Alaska Administrative Orders 262 and 129 establish the Americans with
 Disabilities Act (ADA) compliance program in accordance with the
@@ -1499,7 +1422,7 @@ American with Disabilities Act (42 U.S.C. 12101 et seq.). DHSS expects
 the Offeror to propose and deliver solutions that meet the Alaska ADA
 program.
 
-### ADA Compliance for Access to Information Systems and Applications
+### 3.11.1 ADA Compliance for Access to Information Systems and Applications
 
 DHSS requires ADA compliant application access. Many people with
 disabilities use "assistive technology" to enable them to use computers
@@ -1565,7 +1488,7 @@ Accessibility Guidelines (and associated checklists), can be found at
 Information about the Web Accessibility Initiative can be found at
 [www.w3c.org/WAI](http://www.w3c.org/WAI) .
 
-#### Requirement
+#### 3.11.1.1 Requirement
 
 > DHSS requires that web pages and web applications be accessible for
 > ADA compliance. This includes online forms and tables which must be
@@ -1577,7 +1500,7 @@ Information about the Web Accessibility Initiative can be found at
 > page\\web application features are accessible by American's with
 > Disabilities.
 
-## State of Alaska DHSS MITA/NHSIA Standards and Department IT Governance
+## 3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT Governance
 
 We want you to understand that we are working with our federal partners
 (the Centers for Medicare and Medicaid Services and the Administration
@@ -1628,12 +1551,12 @@ identify and/or implement opportunities to align with our MITA/NHSIA
 standards and ensure we appropriately meet and adapt to our IT
 Governance processes and standards.
 
-### MITA/NHSIA Requirements
+### 3.12.1 MITA/NHSIA Requirements
 
 In our agile acquisition practice, we are asking that you read and
 consider the 7C&S.
 
-#### Modularity
+#### 3.12.1.1 Modularity
 
 Modularity is based on the concept that the system components can be
 separated and combined in a flexible way. This can be accomplished with
@@ -1642,7 +1565,7 @@ another term for program or system. APIs provide a way for an
 application developed by one Contractor to access applications developed
 by a different Contractor.
 
-#### MITA/NHSIA Condition
+#### 3.12.1.2 MITA/NHSIA Condition
 
 Most of the MITA/NHSIA Condition centers around requiring states to
 align their future system enhancements to an increasingly mature design
@@ -1653,7 +1576,7 @@ This requirement requires a demonstration of understanding of the 7C&S
 and the Department's IT Technology Standards and how this applies to the
 Contractor's proposed solution.
 
-#### Industry Standards Condition
+#### 3.12.1.3 Industry Standards Condition
 
 States must ensure alignment with, and incorporation of, industry
 standards: the Health Insurance Portability and Accountability Act
@@ -1665,7 +1588,7 @@ laws; standards adopted by the Secretary under section 1104 of the
 Affordable Care Act (ACA); and standards and protocols adopted by the
 Secretary under section 1561 of the ACA.
 
-#### Leverage Condition
+#### 3.12.1.4 Leverage Condition
 
 This condition defines that the State solutions should promote sharing,
 leverage, and reuse of technologies and systems within and among states.
@@ -1674,12 +1597,12 @@ proposed solution could be exposed for reuse by the Department's
 existing enterprise systems and what impacts they would have to the
 schedule and budget of the proposed solution.
 
-#### Business Results
+#### 3.12.1.5 Business Results
 
 This condition ensures that there is a requirements process and
 traceability of requirements for deliverable acceptance.
 
-#### Reporting Condition
+#### 3.12.1.6 Reporting Condition
 
 The proposed solution should support accurate and timely processing of
 data. Solutions should produce transaction data, reports, and
@@ -1687,14 +1610,14 @@ performance information that would contribute to program evaluation,
 continuous improvement in business operations, and transparency and
 accountability.
 
-#### Interoperability Condition
+#### 3.12.1.7 Interoperability Condition
 
 The current focus of healthcare and human services is to improve the
 effectiveness of healthcare and service delivery. This focus includes
 improved information sharing between providers and improved service
 outcomes with more cost effectiveness.
 
-#### Enterprise Service Bus
+#### 3.12.1.7.1 Enterprise Service Bus
 
 > The IT Infrastructure within DHSS has a BizTalk Enterprise Service Bus
 > (ESB). The Enterprise Service Bus (ESB) is a component of a modular,
@@ -1703,7 +1626,7 @@ outcomes with more cost effectiveness.
 > program or a gateway for non-homogenous applications to share and
 > consume services.
 
-#### Master Client Index
+#### 3.12.1.7.2 Master Client Index
 
 > The IT Infrastructure within DHSS has a Master Client Index
 > (MultiVue). The Master Client Index is a component of a modular,
