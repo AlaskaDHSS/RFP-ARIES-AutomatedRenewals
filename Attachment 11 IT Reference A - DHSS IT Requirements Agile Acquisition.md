@@ -1211,7 +1211,7 @@ Mobile devices for DHSS are:
         Microsoft, FireFox, and Google Chrome.
 
     -   Software should not be dependent on a specific version of MS
-        Office Suite. We are currently at 2010 -- but we move the
+        Office Suite. We are currently using the Office 365 version -- but we move the
         organization as a whole for the Department upgrades. We have
         over 4000 Department Staff.
 
