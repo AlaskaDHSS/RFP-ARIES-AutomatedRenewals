@@ -43,7 +43,7 @@ We've made every effort to allow for less burden in what we require from interes
 
 ### Budget
 
-We estimate a budget of $1,200,000 - $1,500,000 dollars for the completion of this project as outlined in the RFP. Proposals priced at more than this amount will be considered non-responsive.  This will be a time and materials contract.
+We estimate a budget of $1,500,000 dollars for the completion of this project as outlined in the RFP. Proposals priced at more than this amount will be considered non-responsive.  This will be a time and materials contract.
 
 ### Contract Term
 
