@@ -630,14 +630,14 @@ This scope includes:
 -   creation or alteration of eligibility rules to automate the annual
     MAGI Medicaid renewal process
 
-    -   information about the rules process can be found in
-        [Prototype](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2007%20Automated%20Renewals%20Technical%20Prototype%20Findings.md)
+    -   information about the rules process can be found in the
+        [Prototype Findings](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2007%20Automated%20Renewals%20Technical%20Prototype%20Findings.md)
 
 -   renewal outcome information presentation to eligibility workers
     based upon user design sessions and user research
 
-    -   information about the user facing application can be found in
-        [prototype](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2007%20Automated%20Renewals%20Technical%20Prototype%20Findings.md)
+    -   information about the user facing application can be found in the
+        [Prototype Findings](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2007%20Automated%20Renewals%20Technical%20Prototype%20Findings.md)
 
 -   new or altered notices to recipients notifying them of their renewal
     or eligibility status -- these will need to be automated based upon
@@ -645,7 +645,7 @@ This scope includes:
 
     -   information about notice generation and configuration is
         contained within
-        [prototype](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2007%20Automated%20Renewals%20Technical%20Prototype%20Findings.md)
+        [Prototype Findings](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2007%20Automated%20Renewals%20Technical%20Prototype%20Findings.md)
 
 -   development of any needed training materials to be presented to
     users
