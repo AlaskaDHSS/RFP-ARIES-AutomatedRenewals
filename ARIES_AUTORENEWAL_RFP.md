@@ -291,7 +291,7 @@ live links of the final product or current staging environment. If live
 links are not available, screenshots can be provided, along with a brief
 explanation as to why the project is no longer live. Note that
 screenshots will not be counted towards your [40-page
-limitation](#sec-401-proposal-format-and-content-1); please provide screenshots
+limitation](#sec-401-proposal-format-and-content); please provide screenshots
 as attachments. The projects should be recent and similar to the size
 and technical scope of this requirement.
 
@@ -631,7 +631,7 @@ This scope includes:
     MAGI Medicaid renewal process
 
     -   information about the rules process can be found in
-        [Prototype Findings](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2007%20Automated%20Renewals%20Technical%20Prototype%20Findings.md)
+        [Prototype](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2007%20Automated%20Renewals%20Technical%20Prototype%20Findings.md)
 
 -   renewal outcome information presentation to eligibility workers
     based upon user design sessions and user research
@@ -908,7 +908,7 @@ inspect, accept, or reject all deliverables.
 
 Acceptance of services and deliverables will be based on the criteria
 laid out in the [quality assurance
-plan](#sec-809-attachment-9----performance-based-quality-assurance-plan-qap).
+plan](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2009%20QAP.md).
 
 **SYSTEM DOCUMENTATION**
 
@@ -1225,9 +1225,9 @@ either in the written proposal or during the verbal presentation, any
 technical risks or opportunities. This section should include your
 proposed plans to adhere to the technical requirements and standards
 listed out in [Section
-8.11](#sec-811-attachment-11-it-reference-a---dhss-it-requirements-agile-acquisition)
+8.11](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2011%20IT%20Reference%20A%20-%20DHSS%20IT%20Requirements%20Agile%20Acquisition.md)
 and [Section
-8.12](#sec-812-attachment-12---it-reference-d---dhss-information-technology-standards).
+8.12](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2012%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.md).
 
 Technical Understanding and Approach is included in the page limit.
 
@@ -1277,7 +1277,7 @@ page limit.
 Provide a staffing approach that describes your understanding of the
 responsibilities and details the number or personnel by skill
 level/labor category needed to satisfy [Section 3.01: Scope of
-Work](#scope-of-work) as well as [Section 3.03 Personnel](#personnel).
+Work](#sec-301-scope-of-work) as well as [Section 3.03 Personnel](#sec-303-personnel).
 
 At a minimum, in this section, provide:
 
@@ -1412,7 +1412,7 @@ the names of everyone who will attend.
 ## Sec. 4.09 Cost Proposal
 
 Offerors must complete the cost proposal template provided in [Sec 8.01:
-Attachment 1 - Cost Proposal](#sec-801-attachment-1----cost-proposal). Cost
+Attachment 1 - Cost Proposal](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2001%20Cost%20Proposal.xlsx). Cost
 proposals must include an itemized list of all direct and indirect costs
 associated with the performance of the contract, including, but not
 limited to, total number of hours at various hourly rates, direct
