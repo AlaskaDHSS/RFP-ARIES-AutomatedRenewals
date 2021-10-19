@@ -291,7 +291,7 @@ live links of the final product or current staging environment. If live
 links are not available, screenshots can be provided, along with a brief
 explanation as to why the project is no longer live. Note that
 screenshots will not be counted towards your [40-page
-limitation](#sec-104-minimum-qualifications); please provide screenshots
+limitation](#sec-401-proposal-format-and-content); please provide screenshots
 as attachments. The projects should be recent and similar to the size
 and technical scope of this requirement.
 
@@ -327,7 +327,7 @@ within this RFP's [GitHub repository](https://github.com/AlaskaDHSS/RFP-ARIES-Au
 no later than 4:00 PM Alaska Prevailing Time on TBD, to allow the State
 sufficient time to respond. All questions and comments will be publicly
 available. Please add yourself as a watcher on the Automated Renewals
-RFP [Github Repository](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/issues)
+RFP [Github Repository](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals)
 if your firm would like updates about changes and comments. Questions or
 comments received after the required deadline may not be answered.
 
@@ -500,7 +500,7 @@ If an amendment is issued, it will be provided to all who were notified
 of the RFP and to those who have registered with the procurement officer
 after receiving the RFP from the State of Alaska Online Public Notice
 website as well as those who have made themselves a watcher on the
-Automated Renewals RFP [Github Repository](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/issues).
+Automated Renewals RFP [Github Repository](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals).
 
 ## Sec. 1.12 RFP Schedule
 
