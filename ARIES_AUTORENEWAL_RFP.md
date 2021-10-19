@@ -650,7 +650,7 @@ This scope includes:
 -   development of any needed training materials to be presented to
     users
 
--   development of technical documentation as described in [Section 3.05](##sec-305-deliverables) and [Section
+-   development of technical documentation as described in [Section 3.05](#sec-305-deliverables) and [Section
     8.10](#sec-810-attachment-10----technical-documentation-example)
 
 The product team and product owner have chosen this specific product
@@ -932,7 +932,7 @@ appropriate.
 
 The contractor shall comply with the acceptable quality levels (AQL) as
 described in the attached [quality assurance plan
-(QAP)](#sec-809-attachment-9----performance-based-quality-assurance-plan-qap).
+(QAP)](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2009%20QAP.md).
 
 ## Sec. 3.06 Contract Type
 
