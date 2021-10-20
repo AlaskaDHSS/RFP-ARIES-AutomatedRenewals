@@ -250,7 +250,7 @@ currently issues MAGI Medicaid for over 200,000 Alaskans.
 
 ## Sec. 1.02 Budget
 
-DHSS, DPA estimates a budget of \$1,200,00-1,500,00 dollars for
+DHSS, DPA estimates a budget of $1,500,000 dollars for
 completion of this project. Proposals priced at more than this amount
 will be considered non-responsive.
 
