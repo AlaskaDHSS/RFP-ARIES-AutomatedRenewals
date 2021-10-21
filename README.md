@@ -27,7 +27,7 @@ This work will ensure that DPA is able to comply with the requirements regarding
  
 _Important note - Questions or feedback about this RFP should be [posted here](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/issues) - and not to the main DHSS project repo._
 
-### What we're planning to achieve as a result of this acquistion
+### What we're planning to achieve as a result of this acquisition
 - Development of an automated process allowing for renewal of the appropriate MAGI Medicaid clients without eligibility worker intervention
 - Reduction of the automated notices that are mailed to MAGI Medicaid clients with an upcoming renewal
 - Lowering the overall costs DPA pays for postage services
