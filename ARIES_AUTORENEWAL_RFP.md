@@ -866,7 +866,7 @@ in the last five (5) years in a technical leadership role.
 
 ## Sec. 3.04 Contract Term and Work Schedule
 
-The term of this contract will be from approximately January 3, 2021
+The term of this contract will be from approximately January 10, 2021
 -- October 15, 2022. Any potential for contract amendments that alter
 this term will need approval of the procurement officer, the DPA project
 manager, and approval by federal partners.
