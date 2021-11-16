@@ -1,15 +1,37 @@
 ## Instructions
 
-This repository will be used to gather feedback on an expected upcoming RFP release from the Alaska Department of Health and Social Services (DHSS) Division of Public Assistance (DPA). We ask that you review the documents here, and provide feedback by opening an issue within this [repository](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/issues).
+This repository will be used to handle Q/A, and will serve as the repository for the Automated Renewals project RFP release from the Alaska Department of Health and Social Services (DHSS) Division of Public Assistance (DPA).
 
-All feedback must be received by **November 12th, 2021** in the form of an issue posted to this repository. 
+### RFP Schedule
+The RFP schedule set out herein represents the State of Alaska's best
+estimate of the schedule that will be followed. If a component of this
+schedule, such as the deadline for receipt of proposals, is delayed, the
+rest of the schedule may be shifted by the same number of days. **All
+times are Alaska Prevailing Time**.
 
-When we are ready to release the official RFP it will be posted here in this repository and will also be listed in the official [State of Alaska Vendor Self Service Portal](https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService).
+-   Issue RFP on November 16, 2021
+
+-   Deadline for receipt of questions on Saturday November 27, 2021 4PM
+
+-   Deadline for receipt of proposals on Tuesday December 7, 2021 4PM
+
+-   Proposal Evaluation Committee complete evaluation Tuesday December 14, 2021
+
+-   State of Alaska issues Notice of Intent to Award a Contract by Thursday December 16, 2021
+
+-   State of Alaska issues contract on January 3, 2022
+
+-   Contract begins January 10, 2022
+
+
+All Questions must be received by **November 27th, 2021** in the form of an issue posted to this repository. 
+
+The Automated Renewals RFP is also listed in the official [State of Alaska Vendor Self Service Portal](https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService).
 
 
 ## Important note about referenced documentation
 
-You'll notice that we link to a number of working documents in our RFP and related materials.  Interested vendors should be aware that all of these documents are subject to change because Alaska is continuing to learn more as we continue prototyping and working with various elements of the existing system to build out our DevSecOps capabilities.  IIn addition to paying close attention to this repository, we encourage interested vendors to "Watch" what's going on in [the main DHSS Modernization repo](https://github.com/AlaskaDHSS/EIS-Modernization).  We don't anticipate anything that we learn or change in this environment to alter how an interested vendor would staff up their proposed teams.  As discussed throughout the RFP, we are interested in vendors that are open to such changes without requiring a static set of requirements at the time of the RFP.
+You'll notice that we link to a number of working documents in our RFP and related materials.  Interested vendors should be aware that all of these documents are subject to change because Alaska is continuing to learn more as we continue prototyping and working with various elements of the existing system to build out our DevSecOps capabilities.  In addition to paying close attention to this repository, we encourage interested vendors to "Watch" what's going on in [the main DHSS Modernization repo](https://github.com/AlaskaDHSS/EIS-Modernization).  We don't anticipate anything that we learn or change in this environment to alter how an interested vendor would staff up their proposed teams.  As discussed throughout the RFP, we are interested in vendors that are open to such changes without requiring a static set of requirements at the time of the RFP.
 
 ## Background
 
@@ -47,7 +69,7 @@ We estimate a budget of $1,500,000 dollars for the completion of this project as
 
 ### Contract Term
 
-This contract term is planned to be late 2021 - late 2022. This contract period will be refined based on the feedback from this draft as well as feedback from our federal partners. 
+This contract term is planned to be Early 2022 - late 2022.
 
 ## Contributing
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
