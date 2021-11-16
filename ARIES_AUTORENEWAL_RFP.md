@@ -2,13 +2,12 @@
 
 
 # State of Alaska Request for Proposals 
-![draft](media/draft.png) 
 
 **MAGI Medicaid Automated Renewals**
 
 RFP 2022-0600-4999
 
-ISSUED TBD
+ISSUED November 16, 2021
 
 The Alaska Department of Health and Social Services (DHSS), Division of Public Assistance (DPA) is searching for a partner to develop and implement a MAGI Medicaid Automated Renewal Process.
 
@@ -256,8 +255,8 @@ will be considered non-responsive.
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than **12:00 pm** prevailing Alaska
-Time **TBD.**
+Proposals must be received no later than **4:00 pm** prevailing Alaska
+Time **December 7th, 2021**
 
 Late proposals or amendments will be disqualified and not opened or
 accepted for evaluation.
@@ -324,7 +323,7 @@ could not be made.
 
 Questions or comments regarding this RFP shall be submitted as issues
 within this RFP's [GitHub repository](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/issues)
-no later than 4:00 PM Alaska Prevailing Time on TBD, to allow the State
+no later than 4:00 PM Alaska Prevailing Time on Saturday November 27th, to allow the State
 sufficient time to respond. All questions and comments will be publicly
 available. Please add yourself as a watcher on the Automated Renewals
 RFP [Github Repository](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals)
@@ -510,20 +509,19 @@ schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days. **All
 times are Alaska Prevailing Time**.
 
--   Issue RFP on TBD
+-   Issue RFP on November 27, 2021
 
--   Deadline for receipt of questions on + 10 days
+-   Deadline for receipt of questions on Saturday November 27, 2021 4PM
 
--   Deadline for receipt of proposals on + 21 days
+-   Deadline for receipt of proposals on Tuesday December 7, 2021 4PM
 
--   Proposal Evaluation Committee complete evaluation by + 21 days
+-   Proposal Evaluation Committee complete evaluation Tuesday December 14, 2021
 
--   State of Alaska issues Notice of Intent to Award a Contract by + 1
-    day of date of PEC completion
+-   State of Alaska issues Notice of Intent to Award a Contract by Thursday December 16, 2021
 
--   State of Alaska issues contract award by + 10-day protest period
+-   State of Alaska issues contract on January 3, 2022
 
--   Contract begins TBD
+-   Contract begins January 10, 2022
 
 This RFP does not, by itself, obligate the State. The State's
 obligation will commence when the contract is approved by the
