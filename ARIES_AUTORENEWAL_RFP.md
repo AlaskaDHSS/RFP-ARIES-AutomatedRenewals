@@ -509,9 +509,9 @@ schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days. **All
 times are Alaska Prevailing Time**.
 
--   Issue RFP on November 27, 2021
+-   Issue RFP on November 16, 2021
 
--   Deadline for receipt of questions on Saturday November 16, 2021 4PM
+-   Deadline for receipt of questions on Saturday November 27, 2021 4PM
 
 -   Deadline for receipt of proposals on Tuesday December 7, 2021 4PM
 
@@ -866,8 +866,8 @@ in the last five (5) years in a technical leadership role.
 
 ## Sec. 3.04 Contract Term and Work Schedule
 
-The term of this contract will be from approximately December 15, 2021
--- September 30, 2022. Any potential for contract amendments that alter
+The term of this contract will be from approximately January 3, 2021
+-- October 15, 2022. Any potential for contract amendments that alter
 this term will need approval of the procurement officer, the DPA project
 manager, and approval by federal partners.
 
