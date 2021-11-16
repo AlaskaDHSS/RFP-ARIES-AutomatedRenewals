@@ -511,7 +511,7 @@ times are Alaska Prevailing Time**.
 
 -   Issue RFP on November 27, 2021
 
--   Deadline for receipt of questions on Saturday November 27, 2021 4PM
+-   Deadline for receipt of questions on Saturday November 16, 2021 4PM
 
 -   Deadline for receipt of proposals on Tuesday December 7, 2021 4PM
 
