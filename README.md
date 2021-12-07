@@ -11,20 +11,20 @@ times are Alaska Prevailing Time**.
 
 -   Issue RFP on November 16, 2021
 
--   Deadline for receipt of questions on Saturday November 27, 2021 4PM
+-   Deadline for receipt of questions on Wednesday, December 15 2021 4PM
 
--   Deadline for receipt of proposals on Tuesday December 7, 2021 4PM
+-   Deadline for receipt of proposals on Monday, December 27, 2021 4PM
 
--   Proposal Evaluation Committee complete evaluation Tuesday December 14, 2021
+-   Proposal Evaluation Committee complete evaluation Tuesday, December 28, 2021
 
--   State of Alaska issues Notice of Intent to Award a Contract by Thursday December 16, 2021
+-   State of Alaska issues Notice of Intent to Award a Contract by Friday, January 7, 2022
 
--   State of Alaska issues contract on January 3, 2022
+-   State of Alaska issues contract on Tuesday, January 18, 2022
 
--   Contract begins January 10, 2022
+-   Contract begins January 21, 2022
 
 
-All Questions must be received by **November 27th, 2021** in the form of an issue posted to this repository. 
+All Questions must be received by **December 15, 2021** in the form of an issue posted to this repository. 
 
 The Automated Renewals RFP is also listed in the official [State of Alaska Vendor Self Service Portal](https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService).
 
