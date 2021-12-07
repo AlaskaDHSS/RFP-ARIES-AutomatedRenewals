@@ -19,7 +19,7 @@ times are Alaska Prevailing Time**.
 
 -   State of Alaska issues Notice of Intent to Award a Contract by Friday, January 7, 2022
 
--   State of Alaska issues contract on Tuesday, January 18, 2022
+-   State of Alaska issues contract on Tuesday, January 19, 2022
 
 -   Contract begins January 29, 2022
 
