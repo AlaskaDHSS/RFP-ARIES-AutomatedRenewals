@@ -15,13 +15,13 @@ times are Alaska Prevailing Time**.
 
 -   Deadline for receipt of proposals on Monday, December 27, 2021 4PM
 
--   Proposal Evaluation Committee complete evaluation Tuesday, December 28, 2021
+-   Proposal Evaluation Committee complete evaluation Monday, January 3, 2022
 
 -   State of Alaska issues Notice of Intent to Award a Contract by Friday, January 7, 2022
 
 -   State of Alaska issues contract on Tuesday, January 18, 2022
 
--   Contract begins January 21, 2022
+-   Contract begins January 29, 2022
 
 
 All Questions must be received by **December 15, 2021** in the form of an issue posted to this repository. 
