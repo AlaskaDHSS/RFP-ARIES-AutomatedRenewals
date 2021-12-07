@@ -256,7 +256,7 @@ will be considered non-responsive.
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
 Proposals must be received no later than **4:00 pm** prevailing Alaska
-Time **December 7th, 2021**
+Time **December 27th, 2021**
 
 Late proposals or amendments will be disqualified and not opened or
 accepted for evaluation.
@@ -323,7 +323,7 @@ could not be made.
 
 Questions or comments regarding this RFP shall be submitted as issues
 within this RFP's [GitHub repository](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/issues)
-no later than 4:00 PM Alaska Prevailing Time on Saturday November 27th, to allow the State
+no later than 4:00 PM Alaska Prevailing Time on Wednesday, December 15, 2021, to allow the State
 sufficient time to respond. All questions and comments will be publicly
 available. Please add yourself as a watcher on the Automated Renewals
 RFP [Github Repository](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals)
@@ -511,17 +511,17 @@ times are Alaska Prevailing Time**.
 
 -   Issue RFP on November 16, 2021
 
--   Deadline for receipt of questions on Saturday November 27, 2021 4PM
+-   Deadline for receipt of questions on Wednesday, December 15, 2021 4PM
 
--   Deadline for receipt of proposals on Tuesday December 7, 2021 4PM
+-   Deadline for receipt of proposals on Monday, December 27, 2021 4PM
 
--   Proposal Evaluation Committee complete evaluation Tuesday December 14, 2021
+-   Proposal Evaluation Committee complete evaluation Monday, January 3, 2022
 
--   State of Alaska issues Notice of Intent to Award a Contract by Thursday December 16, 2021
+-   State of Alaska issues Notice of Intent to Award a Contract by Friday, January 7, 2022
 
--   State of Alaska issues contract on January 3, 2022
+-   State of Alaska issues contract on Wednesday, January 19, 2022
 
--   Contract begins January 10, 2022
+-   Contract begins Monday January 31, 2022
 
 This RFP does not, by itself, obligate the State. The State's
 obligation will commence when the contract is approved by the
@@ -866,8 +866,8 @@ in the last five (5) years in a technical leadership role.
 
 ## Sec. 3.04 Contract Term and Work Schedule
 
-The term of this contract will be from approximately January 10, 2022
--- October 15, 2022. Any potential for contract amendments that alter
+The term of this contract will be from approximately January 31, 2022
+-- October 21, 2022. Any potential for contract amendments that alter
 this term will need approval of the procurement officer, the DPA project
 manager, and approval by federal partners.
 
