@@ -519,9 +519,9 @@ times are Alaska Prevailing Time**.
 
 -   State of Alaska issues Notice of Intent to Award a Contract by Friday, January 7, 2022
 
--   State of Alaska issues contract on January 18, 2022
+-   State of Alaska issues contract on Wednesday, January 19, 2022
 
--   Contract begins January 19, 2022
+-   Contract begins Monday January 31, 2022
 
 This RFP does not, by itself, obligate the State. The State's
 obligation will commence when the contract is approved by the
@@ -866,8 +866,8 @@ in the last five (5) years in a technical leadership role.
 
 ## Sec. 3.04 Contract Term and Work Schedule
 
-The term of this contract will be from approximately January 19, 2022
--- October 22, 2022. Any potential for contract amendments that alter
+The term of this contract will be from approximately January 31, 2022
+-- October 21, 2022. Any potential for contract amendments that alter
 this term will need approval of the procurement officer, the DPA project
 manager, and approval by federal partners.
 
